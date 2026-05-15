@@ -2,7 +2,7 @@
 
 ## GitHub Stats
 
-![Greatbeki430's GitHub stats](https://github-readme-stats-iota-plum-47.vercel.app/api?username=greatbeki430)
+![Gezagn Bekele Reggassa's GitHub stats](https://github-readme-stats-iota-plum-47.vercel.app/api?username=greatbeki430&theme=dark&show_icons=true)
 
 ## 💻 Coding Activity (Last 7 Days)
 

@@ -9,11 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 May 2026 - To: 28 May 2026
+From: 23 May 2026 - To: 30 May 2026
 
-Total Time: 0 secs
+Total Time: 3 hrs 52 mins
 
-No activity tracked
+JavaScript   2 hrs 28 mins         ████████████████░░░░░░░░░   63.90 %
+CSS          1 hr 16 mins          ████████▒░░░░░░░░░░░░░░░░   32.74 %
+HTML         5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Bash         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->

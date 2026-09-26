@@ -2,7 +2,7 @@
 
 ## GitHub Stats
 
-![Gezagn Bekele Reggassa's GitHub stats](https://github-readme-stats-iota-plum-47.vercel.app/api?username=greatbeki430&theme=dark&show_icons=true)
+![Gezagn Bekele Reggassa's GitHub stats](https://github-readme-stats-5lw4.vercel.app/api?username=greatbeki430&theme=dark&show_icons=true)
 
 ## 💻 Coding Activity (Last 7 Days)
 
@@ -24,6 +24,4 @@ Markdown      0 secs                ░░░░░░░░░░░░░░�
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats-iota-plum-47.vercel.app/api/top-langs/?username=greatbeki430)
-
-
+![Top Languages](https://github-readme-stats-5lw4.vercel.app/api/top-langs/?username=greatbeki430)
